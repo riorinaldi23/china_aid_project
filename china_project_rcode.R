@@ -6,7 +6,7 @@
 library(ggplot2)     #data visualization
 library(tidyverse)   #code is in tidyverse format
 library(countrycode) #used to match diverse country names and their iso_3
-library(DescTools)     #assists with string manipulation
+library(DescTools)   #assists with string manipulation
 
 #Reading in our two datasets
 #Reading in data for aid
